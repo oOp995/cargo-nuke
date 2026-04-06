@@ -7,6 +7,7 @@ keywords=["cli", "cargo", "clean","artifacts", "disk-space"]
 description="Simple, yet effective tool to batch clean all crate artifacts that haven't been used for a while."
 license="MIT"
 readme = "README.md"
+repository = "https://github.com/oOp995/cargo-nuke.git"
 
 [dependencies]
 clap = { version = "4.6.0", features = ["derive"] }

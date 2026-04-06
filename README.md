@@ -1,4 +1,8 @@
-# 💥 cargo-nuke V0.1.4
+[![Crates.io](https://img.shields.io/crates/v/cargo-nuke)](https://crates.io/crates/cargo-nuke)
+[![GitHub](https://img.shields.io/github/stars/oOp995/cargp-nuke)](https://github.com/oOp995/cargo-nuke)
+
+
+# 💥 cargo-nuke V0.1.5
 
 > *If you're here, you're probably running out of storage.  
 > `cargo-nuke` is here to give you a hand.*
