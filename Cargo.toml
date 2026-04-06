@@ -1,0 +1,14 @@
+[package]
+name = "cargo-nuke"
+version = "0.1.5"
+edition = "2024"
+author=["oOp95","ossama.abboud95@gmail.com"]
+keywords=["cli", "cargo", "clean","artifacts", "disk-space"]
+description="Simple, yet effective tool to batch clean all crate artifacts that haven't been used for a while."
+license="MIT"
+readme = "README.md"
+
+[dependencies]
+clap = { version = "4.6.0", features = ["derive"] }
+walkdir="2"
+colored="3.1.1"
