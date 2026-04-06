@@ -66,7 +66,7 @@ impl Cargos {
 
                             if folder_name.eq("target") {
                                 temp_path = folder_path.to_path_buf();
-                                println!("temp: {:?}",temp_path);
+                        
                                 for dir in WalkDir::new(folder_path) {
                                     let entry = dir?;
                                     if entry.path().is_file() {

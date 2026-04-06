@@ -1,6 +1,6 @@
 [package]
 name = "cargo-nuke"
-version = "0.1.5"
+version = "0.1.6"
 edition = "2024"
 author=["oOp95","ossama.abboud95@gmail.com"]
 keywords=["cli", "cargo", "clean","artifacts", "disk-space"]
